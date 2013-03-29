@@ -1,0 +1,19 @@
+{
+	"name": "devture/recency-tracker-publisher",
+	"description": "Publisher for the (resource) recency-tracker server",
+	"license": "BSD",
+	"authors": [
+		{
+			"name": "Slavi Pantaleev",
+			"email": "s.pantaleev@gmail.com"
+		}
+	],
+	"require": {
+
+	},
+	"autoload": {
+		"psr-0": {
+			"Devture\\Component\\RecencyTracker\\": "src/"
+		}
+	}
+}
